@@ -17,3 +17,4 @@ lightgbm>=4,<5
 flaml
 #TimeGPT
 nixtla
+python-dotenv
